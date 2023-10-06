@@ -1,5 +1,5 @@
 {
-    "name": "oxtgenzsas/composer_lib_container",
+    "name": "oxygenzsas/composer_lib_container",
     "description": "Une classe de container compatible PSR",
     "license": "MIT",
     "keywords": ["container"],
